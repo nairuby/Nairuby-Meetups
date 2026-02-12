@@ -43,8 +43,8 @@ Learning doesn't stop when the meetup ends!
 
 Nairuby is open to all Rubyists in the +254 and beyond. We are committed to a welcoming and inclusive environment.
 
-* **Website:** [nairuby.org](https://www.google.com/search?q=https://nairuby.org)
-* **X:** [@nairuby](https://www.google.com/search?q=https://x.com/nairuby)
+* **Website:** [nairuby.org](https://nairuby.org)
+* **X:** [@nairuby](https://x.com/nairuby)
 
 ---
 
