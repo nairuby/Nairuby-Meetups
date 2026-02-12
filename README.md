@@ -18,7 +18,7 @@ We meet every **2nd Thursday of the month** to share knowledge, hack on Ruby/Rai
 
 ## 🚀 How to Contribute (Speakers)
 
-We encourage a **Pull Request Culture**. Contributing your talk materials to this repo helps the community revisit your insights and keeps the "Nairuby" organization vibrant.
+Contributing your talk materials to this repo helps the community revisit your insights and keeps the "Nairuby" organization vibrant.
 
 ### 1. Repository Structure
 
