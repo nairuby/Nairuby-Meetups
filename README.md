@@ -34,7 +34,7 @@ Please follow this folder hierarchy to keep things organized:
 
 Learning doesn't stop when the meetup ends!
 
-* **Follow-up Questions:** If you have questions about a specific presentation, please **[Open an Issue](https://www.google.com/search?q=https://github.com/nairuby/Nairuby-Meetups/issues)** and tag the speaker.
+* **Follow-up Questions:** If you have questions about a specific presentation, please **[Open an Issue](https://github.com/nairuby/Nairuby-Meetups/issues)** and tag the speaker.
 * **Propose a Talk:** Have something cool to share? Open an issue with the "Talk Proposal" label!
 
 ---
