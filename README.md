@@ -6,16 +6,6 @@ We meet every **2nd Thursday of the month** to share knowledge, hack on Ruby/Rai
 
 ---
 
-## Meetup Index
-
-| Date | Speaker | Topic | Resources |
-| --- | --- | --- | --- |
-| **Feb 12, 2026** | Kamau | Metaprogramming Tips | [Slides & Demo](https://www.google.com/search?q=./2026/02-february/) |
-| **Jan 08, 2026** | Joylizza | Community Roadmap | [Slides](https://www.google.com/search?q=./2026/01-january/) |
-| ... | ... | ... | ... |
-
----
-
 ## 🚀 How to Contribute (Speakers)
 
 Contributing your talk materials to this repo helps the community revisit your insights and keeps the "Nairuby" organization vibrant.
@@ -53,8 +43,8 @@ Learning doesn't stop when the meetup ends!
 
 Nairuby is open to all Rubyists in the +254 and beyond. We are committed to a welcoming and inclusive environment.
 
-* **Twitter:** [@nairuby](https://www.google.com/search?q=https://twitter.com/nairuby)
 * **Website:** [nairuby.org](https://www.google.com/search?q=https://nairuby.org)
+* **X:** [@nairuby](https://www.google.com/search?q=https://x.com/nairuby)
 
 ---
 
